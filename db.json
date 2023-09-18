@@ -29,6 +29,16 @@
           "Perry demolishes all snacks.",
           "Perry hates the rain."
         ]
+      },
+      {
+        "name": "Tubby",
+        "age": 4,
+        "src": "tubby",
+        "facts": [
+          "Tubby is really stupid.",
+          "Tubby does not like walks.",
+          "Angelina used to hate Tubby, but claims not to anymore."
+        ]
       }
     ]
 }
